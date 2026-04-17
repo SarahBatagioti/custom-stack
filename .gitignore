@@ -1,0 +1,5 @@
+.venv/
+.coverage*
+.pytest_cache/
+src/__pycache__/
+test/__pycache__/
